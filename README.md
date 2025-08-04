@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Konato](https://mini-hackathon-fazal.web.app/)
+- 🔭 I’m currently working on [CodeSwifters](https://codeswifters.com/)
 
 - 🌱 I’m currently learning **Jawan Pakistan**
 
