@@ -1,30 +1,67 @@
-<h1 align="center">Hi 👋, I'm Fazal Shah</h1>
-<h3 align="center">A passionate MERN Stack developer from Pakistan, karachi</h3>
+# Hi there, I'm Fazal Shah 👋 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fazalshah007&label=Profile%20views&color=0e75b6&style=flat" alt="fazalshah007" /> </p>
+### Full Stack Specialist | Expert in Scalable Architectures (SOLID, MVC, Layered) | DevOps Enthusiast
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazalshah007" alt="fazalshah007" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [CodeSwifters](https://codeswifters.com/)
-
-- 🌱 I’m currently learning **Jawan Pakistan**
-
-- 📫 How to reach me **bilalfazal52@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/fazal-shah-5a9b0b212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fazal-shah" height="30" width="40" /></a>
-<a href="https://instagram.com/fazal.shah007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fazal.shah007" height="30" width="40" /></a>
-<a href="https://discord.gg/fazal_shah_52#7306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fazal_shah_52#7306" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/fazalshah" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Execution" />
+  </a>
+  <a href="https://fazalshah.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fazalshah007&show_icons=true&locale=en&layout=compact" alt="fazalshah007" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fazalshah007&show_icons=true&locale=en" alt="fazalshah007" /></p>
+I don’t just build applications; **I engineer scalable, secure, and high-performance systems.** 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fazalshah007&" alt="fazalshah007" /></p>
+With deep expertise across the MERN Stack, NestJS, and Python (FastAPI), my focus is always on writing clean, maintainable code guided by **SOLID principles** and industry-standard architectures like **MVC, Layered, and MVVM Architecture**. I believe that a great developer doesn't just make it work; they make it robust, observable, and built for concurrency.
+
+- ⚡ **What I Do Best:** Bridging the gap between complex, smooth frontend interfaces (Next.js, GSAP) and high-concurrency, secure backend infrastructures.
+- ⚙️ **Architectural Focus:** Centralized Request/Response handling, advanced authentication/authorization (RBAC, 2FA), and microservices containerization.
+
+---
+
+### 🛠️ Technical Powerhouse (My Toolbox)
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Backend Mastery** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
+| **Frontend Excellence** | ![React.js](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) |
+| **Databases & ORMs** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-123A50?style=flat&logo=prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| **Advanced Real-Time** | `WebRTC` • `Mediasoup` • `Socket.io` • `Message Brokers (BullMQ, RabbitMQ)` • `Cron Jobs` |
+
+---
+
+### 💼 Current Professional Experience
+
+#### **Full Stack Software Developer @ CodeSwifters**
+*Engineered production-grade applications with a strong focus on secure API infrastructures and scalable system design.*
+
+*   **Centralized System Logging:** Engineered a real-time centralized logging ecosystem from scratch to monitor application behaviors, tracking incoming requests, server responses, and performance anomalies to drastically reduce debugging time.
+*   **BioTip (AI Meat Scanner Application):** Built core backend pipelines powered by FastAPI. Integrated AI-driven image scanning, stream processing, high-speed database pipelines, and secure AWS S3 asset uploads.
+*   **LuxeVault (Jewelry E-Commerce):** Developed robust backend authentication pipelines, integrating secure Google OAuth systems and multi-tenant data workflows.
+*   **WightGuide (Tourism Platform):** Built administrative features and optimized backend logic to serve dynamic travel insights under rigid production deadlines.
+*   **Enterprise Features:** Designed and shipped complex admin-side panels featuring real-time analytical insights, inventory pipelines, Role-Based Access Control (RBAC), and 2FA via Resend.
+
+---
+
+### 📈 GitHub Metrics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=fazalshah007&show_icons=true&theme=tokyonight" alt="Fazal's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazalshah007&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
+If you are looking for an engineer who understands both the **"How"** and the **"Why"** of system architecture, let's talk.
+
+- 💬 Ask me about: **System Design, Architecture Patterns, NestJS optimizations, or Dockerizing microservices.**
+- 📧 Email: `admin@fazalshah.dev`
+- 🌐 Portfolio: [fazalshah.dev](https://fazalshah.dev) (Replace with your actual domain)
