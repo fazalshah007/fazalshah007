@@ -64,4 +64,4 @@ If you are looking for an engineer who understands both the **"How"** and the **
 
 - 💬 Ask me about: **System Design, Architecture Patterns, NestJS optimizations, or Dockerizing microservices.**
 - 📧 Email: `admin@fazalshah.dev`
-- 🌐 Portfolio: [fazalshah.dev](https://fazalshah.dev) (Replace with your actual domain)
+- 🌐 Portfolio: [fazalshah.dev](https://fazalshah.dev)
